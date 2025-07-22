@@ -1,5 +1,5 @@
 def greet():
-    msg = "Hello, GitHub!"
+    greeting_message = "Hello, GitHub!"
     print(msg)
 
 greet()
